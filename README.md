@@ -4,7 +4,7 @@ A simple Angular Project generated with [Angular CLI](https://github.com/angular
 
 ## Backend
 
-The backend and Database used for this projetc is [Firebase](https://firebase.google.com/)
+The backend and Database used for this project is [Firebase](https://firebase.google.com/)
 
 ## Hosting
 
